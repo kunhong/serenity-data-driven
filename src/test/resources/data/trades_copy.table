@@ -1,0 +1,6 @@
+|KILOMETERS TRAVELLED|EXPECTED_STATUS|		MEMBERSHIP|
+|0|                      Bronze|								   VIP|
+|9999|                   Bronze|           ECONOMIC|
+|10000|                  Silver|           VIP|
+|49999|                  Silver|           BUSINESS|
+|50000|                  Gold|             VIP|
